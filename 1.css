@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    height: 550px;
+    width: 100%;
+    background-color: #557C56;
+}
+.nav{
+    height: 50px;
+    width: 100%;
+    background-color: #33372C;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+a{
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    align-items: center;
+
+}
